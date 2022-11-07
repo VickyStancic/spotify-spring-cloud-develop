@@ -7,6 +7,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/VickyStancic/spotify-spring-cloud
-          search-paths: ConfigData
-          default-label: develop
+          uri: https://github.com/VickyStancic/spotify-spring-cloud-develop
+          search-paths: spotify-spring-cloud-develop/ConfigData/
+          default-label: master
