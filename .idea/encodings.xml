@@ -5,5 +5,7 @@
     <file url="file://$PROJECT_DIR$/spotify-spring-cloud-develop/ConfigServer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spotify-spring-cloud-develop/api-music/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spotify-spring-cloud-develop/api-playlist/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spotify-spring-cloud-develop/eurekaServer/eurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spotify-spring-cloud-develop/eurekaServer/eurekaServer/src/main/resources" charset="UTF-8" />
   </component>
 </project>

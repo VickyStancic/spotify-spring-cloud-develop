@@ -7,15 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="api-playlist" />
         <module name="api-music" />
         <module name="ConfigServer" />
+        <module name="eurekaServer" />
+        <module name="api-playlist" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api-music" target="17" />
       <module name="api-playlist" target="17" />
       <module name="ConfigServer" target="17" />
+      <module name="eurekaServer" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +25,7 @@
       <module name="ConfigServer" options="-parameters" />
       <module name="api-music" options="-parameters" />
       <module name="api-playlist" options="-parameters" />
+      <module name="eurekaServer" options="-parameters" />
     </option>
   </component>
 </project>

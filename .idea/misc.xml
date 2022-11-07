@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/spotify-spring-cloud-develop/api-music/pom.xml" />
         <option value="$PROJECT_DIR$/spotify-spring-cloud-develop/api-playlist/pom.xml" />
         <option value="$PROJECT_DIR$/spotify-spring-cloud-develop/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/spotify-spring-cloud-develop/eurekaServer/eurekaServer/pom.xml" />
       </list>
     </option>
   </component>
