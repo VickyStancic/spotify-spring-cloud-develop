@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spotify-spring-cloud-develop/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/spotify-spring-cloud-develop/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-spring-cloud-develop/api-music/api-music.iml" filepath="$PROJECT_DIR$/spotify-spring-cloud-develop/api-music/api-music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-spring-cloud-develop/api-playlist/api-playlist.iml" filepath="$PROJECT_DIR$/spotify-spring-cloud-develop/api-playlist/api-playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spotify-spring-cloud-develop.iml" filepath="$PROJECT_DIR$/.idea/spotify-spring-cloud-develop.iml" />
+    </modules>
+  </component>
+</project>
